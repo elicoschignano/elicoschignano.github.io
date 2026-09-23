@@ -1,114 +1,98 @@
 ---
 layout: course
-title: Public Economics: Taxation and the Welfare State
-description: 	
-This course explores the theory and practice of government intervention in markets, with a focus on taxation and social insurance. We begin with the theoretical foundations of public economics and asymmetric information, and then move into normative frameworks for evaluating policy, including optimal taxation and welfare analysis. Empirical applications from recent research will link theory to data. Prerequisites Intermediate microeconomics; some exposure to econometrics is helpful but not required.
-instructor: Prof. Example
+title: "Public Economics: Taxation and the Welfare State"
+description: >
+  This course explores the theory and practice of government intervention in markets, with a focus on taxation and social insurance. We begin with the theoretical foundations of public economics and asymmetric information, and then move into normative frameworks for evaluating policy, including optimal taxation and welfare analysis. Empirical applications from recent research will link theory to data.
+instructor: Eliana Coschignano
 year: 2026
 term: Fall
-location: Humbolt University
-time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: intro-machine-learning
+location: Humboldt University
+time: "Tuesdays and Thursdays, 10:00-11:30 AM"
+course_id: public-economics
 schedule:
   - week: 1
-    date: Sept 5
-    topic: Course Introduction
-    description: Overview of machine learning, course structure, and expectations.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Introduction and the Role of Government
+    description: Efficiency, the welfare theorems, and when markets fail.
 
   - week: 2
-    date: Sept 12
-    topic: Linear Regression
-    description: Introduction to linear regression, gradient descent, and model evaluation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Externalities and Public Goods
+    description: Pigouvian taxation, Coasean bargaining, and public good provision.
 
   - week: 3
-    date: Sept 19
-    topic: Classification
-    description: Logistic regression, decision boundaries, and multi-class classification.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+    date: TBA
+    topic: Asymmetric Information
+    description: Adverse selection, moral hazard, and the rationale for social insurance.
 
   - week: 4
-    date: Sept 26
-    topic: Decision Trees and Random Forests
-    description: Tree-based methods, ensemble learning, and feature importance.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Tax Incidence
+    description: Who bears the burden of taxation, in partial and general equilibrium.
 
   - week: 5
-    date: Oct 3
-    topic: Support Vector Machines
-    description: Margin maximization, kernel methods, and support vectors.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Efficiency Costs of Taxation
+    description: Deadweight loss, excess burden, and welfare analysis.
 
   - week: 6
-    date: Oct 10
-    topic: Midterm Exam
-    description: Covers weeks 1-5.
+    date: TBA
+    topic: Optimal Commodity Taxation
+    description: Ramsey taxation and the design of consumption taxes.
 
   - week: 7
-    date: Oct 17
-    topic: Neural Networks Fundamentals
-    description: Perceptrons, multilayer networks, and backpropagation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
+    date: TBA
+    topic: Midterm Exam
+    description: Covers weeks 1-6.
 
   - week: 8
-    date: Oct 24
-    topic: Deep Learning
-    description: Convolutional neural networks, recurrent neural networks, and applications.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+    date: TBA
+    topic: Optimal Income Taxation
+    description: The Mirrlees framework and sufficient-statistics approaches.
+
+  - week: 9
+    date: TBA
+    topic: Behavioral Responses to Taxation
+    description: Labor supply, the elasticity of taxable income, and empirical evidence.
+
+  - week: 10
+    date: TBA
+    topic: Social Insurance
+    description: Unemployment insurance, optimal benefit design, and the Baily-Chetty formula.
+
+  - week: 11
+    date: TBA
+    topic: Redistribution and the Welfare State
+    description: Transfer programs, targeting, and take-up.
+
+  - week: 12
+    date: TBA
+    topic: Empirical Methods and Review
+    description: Research designs in public economics and course review.
 ---
 
 ## Course Overview
 
-This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
+By the end of this course, students will be able to:
 
-- Understand key machine learning paradigms and concepts
-- Implement basic machine learning algorithms
-- Evaluate and compare model performance
-- Apply machine learning techniques to real-world problems
+- Explain the main justifications for government intervention in markets
+- Analyze the incidence and efficiency costs of taxes
+- Apply optimal taxation and social insurance frameworks to policy questions
+- Critically evaluate empirical research in public economics
 
 ## Prerequisites
 
-- Basic knowledge of linear algebra and calculus
-- Programming experience in Python
-- Probability and statistics fundamentals
+Intermediate microeconomics. Some exposure to econometrics is helpful but not required.
 
-## Textbooks
+## Readings
 
-- Primary: "Machine Learning: A Probabilistic Perspective" by Kevin Murphy
-- Reference: "Pattern Recognition and Machine Learning" by Christopher Bishop
+- Primary: Jonathan Gruber, *Public Finance and Public Policy*
+- Reference: Jean Hindriks and Gareth D. Myles, *Intermediate Public Economics*
+- Selected research articles, posted on the course page
 
 ## Grading
 
-- Assignments: 40%
-- Midterm Exam: 20%
-- Final Project: 30%
+- Problem sets: 30%
+- Midterm exam: 25%
+- Final exam: 35%
 - Participation: 10%
