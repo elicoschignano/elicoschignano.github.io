@@ -1,11 +1,13 @@
 ---
 layout: course
-title: Public Economics
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
+title: Public Economics: Taxation and the Welfare State
+description: 	
+This course explores the theory and practice of government intervention in markets, with a focus on taxation and social insurance. We begin with the theoretical foundations of public economics and asymmetric information, and then move into normative frameworks for evaluating policy, including optimal taxation and welfare analysis. Empirical applications from recent research will link theory to data.
+Prerequisites: Intermediate microeconomics; some exposure to econometrics is helpful but not required.
 instructor: Prof. Example
-year: 2023
+year: 2026
 term: Fall
-location: Main Campus, Room 301
+location: Humbolt University
 time: Tuesdays and Thursdays, 10:00-11:30 AM
 course_id: intro-machine-learning
 schedule:
