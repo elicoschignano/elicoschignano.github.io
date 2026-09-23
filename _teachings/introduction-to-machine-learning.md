@@ -2,8 +2,7 @@
 layout: course
 title: Public Economics: Taxation and the Welfare State
 description: 	
-This course explores the theory and practice of government intervention in markets, with a focus on taxation and social insurance. We begin with the theoretical foundations of public economics and asymmetric information, and then move into normative frameworks for evaluating policy, including optimal taxation and welfare analysis. Empirical applications from recent research will link theory to data.
-Prerequisites: Intermediate microeconomics; some exposure to econometrics is helpful but not required.
+This course explores the theory and practice of government intervention in markets, with a focus on taxation and social insurance. We begin with the theoretical foundations of public economics and asymmetric information, and then move into normative frameworks for evaluating policy, including optimal taxation and welfare analysis. Empirical applications from recent research will link theory to data. Prerequisites Intermediate microeconomics; some exposure to econometrics is helpful but not required.
 instructor: Prof. Example
 year: 2026
 term: Fall
