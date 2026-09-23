@@ -12,87 +12,100 @@ course_id: public-economics
 schedule:
   - week: 1
     date: TBA
-    topic: Introduction and the Role of Government
-    description: Efficiency, the welfare theorems, and when markets fail.
+    topic: "Introduction and Overview of the German Tax-Transfer System"
+    description: "Course overview and the structure of the current German tax-transfer system."
 
   - week: 2
     date: TBA
-    topic: Externalities and Public Goods
-    description: Pigouvian taxation, Coasean bargaining, and public good provision.
+    topic: "Insurance through the Government"
+    description: "Readings: Rothschild & Stiglitz (1976); Akerlof (1970)."
 
   - week: 3
     date: TBA
-    topic: Asymmetric Information
-    description: Adverse selection, moral hazard, and the rationale for social insurance.
+    topic: "Example: Optimal Unemployment Insurance"
+    description: "Reading: Schmieder & von Wachter (2016)."
 
   - week: 4
     date: TBA
-    topic: Tax Incidence
-    description: Who bears the burden of taxation, in partial and general equilibrium.
+    topic: "Linking Theory to Empirics: The Marginal Value of Public Funds"
+    description: "Readings: Finkelstein & Hendren (2020); Hendren & Sprung-Keyser (2020)."
 
   - week: 5
     date: TBA
-    topic: Efficiency Costs of Taxation
-    description: Deadweight loss, excess burden, and welfare analysis.
+    topic: "Equity Concerns vs. Alternative Objectives of the Social Planner"
+    description: "Readings: Harsanyi (1953, 1975); Vickrey (1945); Rawls (1971); Weinzierl (2014)."
 
   - week: 6
     date: TBA
-    topic: Optimal Commodity Taxation
-    description: Ramsey taxation and the design of consumption taxes.
+    topic: "Optimal Income Taxation"
+    description: "Reading: Saez (2001)."
 
   - week: 7
     date: TBA
-    topic: Midterm Exam
-    description: Covers weeks 1-6.
+    topic: "The Elasticity of Taxable Income"
+    description: "Reading: Saez, Slemrod & Giertz (2012)."
 
   - week: 8
     date: TBA
-    topic: Optimal Income Taxation
-    description: The Mirrlees framework and sufficient-statistics approaches.
+    topic: "Optimal Transfers with Participation Responses"
+    description: "Reading: Saez (2002a)."
 
   - week: 9
     date: TBA
-    topic: Behavioral Responses to Taxation
-    description: Labor supply, the elasticity of taxable income, and empirical evidence.
-
-  - week: 10
-    date: TBA
-    topic: Social Insurance
-    description: Unemployment insurance, optimal benefit design, and the Baily-Chetty formula.
-
-  - week: 11
-    date: TBA
-    topic: Redistribution and the Welfare State
-    description: Transfer programs, targeting, and take-up.
-
-  - week: 12
-    date: TBA
-    topic: Empirical Methods and Review
-    description: Research designs in public economics and course review.
+    topic: "Taxation of Capital and Commodity Taxation"
+    description: "Reading: Saez (2002b)."
 ---
 
-## Course Overview
+## Learning Objectives
 
-By the end of this course, students will be able to:
+By the end of the course, students will be able to:
 
-- Explain the main justifications for government intervention in markets
-- Analyze the incidence and efficiency costs of taxes
-- Apply optimal taxation and social insurance frameworks to policy questions
-- Critically evaluate empirical research in public economics
+- Analyze the rationale for and structure of the tax-transfer system
+- Apply concepts from welfare economics to evaluate government policy
+- Understand and critique empirical research on taxation and transfers
+- Use formal tools (e.g., utility maximization, Lagrangians) to solve public finance models
+- Interpret empirical results using causal inference techniques
 
 ## Prerequisites
 
 Intermediate microeconomics. Some exposure to econometrics is helpful but not required.
 
-## Readings
+## Tutorials
 
-- Primary: Jonathan Gruber, *Public Finance and Public Policy*
-- Reference: Jean Hindriks and Gareth D. Myles, *Intermediate Public Economics*
-- Selected research articles, posted on the course page
+Tutorials reinforce the theoretical tools and quantitative methods used in lectures and readings, and cover relevant case studies. Topics include:
 
-## Grading
+- Preferences, indifference curves, and budget sets
+- Utility maximization and Lagrange multipliers
+- The envelope theorem
+- Laffer curve intuition and calculation
+- Estimating policy effects using natural experiments
 
-- Problem sets: 30%
-- Midterm exam: 25%
-- Final exam: 35%
-- Participation: 10%
+## Textbooks (recommended)
+
+- Gruber, J. (2005). *Public Finance and Public Policy*. Macmillan.
+- Keuschnigg, C. (2005). *Öffentliche Finanzen: Einnahmenpolitik*. Mohr Siebeck.
+
+## Optional Readings
+
+- Akerlof, G. A. (1970). The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *Quarterly Journal of Economics*, 84(3).
+- Finkelstein, A., & Hendren, N. (2020). Welfare Analysis Meets Causal Inference. *Journal of Economic Perspectives*, 34(4), 146–167.
+- Harsanyi, J. C. (1953). Cardinal Utility in Welfare Economics and in the Theory of Risk-taking. *Journal of Political Economy*, 61(5), 434–435.
+- Harsanyi, J. C. (1975). Can the Maximin Principle Serve as a Basis for Morality? A Critique of John Rawls's Theory. *American Political Science Review*, 69(2), 594–606.
+- Hendren, N., & Sprung-Keyser, B. (2020). A Unified Welfare Analysis of Government Policies. *Quarterly Journal of Economics*, 135(3), 1209–1318.
+- Rawls, J. (1971). *A Theory of Justice*.
+- Rothschild, M., & Stiglitz, J. (1976). Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information. *Quarterly Journal of Economics*, 90(4), 629–649.
+- Saez, E. (2001). Using Elasticities to Derive Optimal Income Tax Rates. *Review of Economic Studies*, 68(1), 205–229.
+- Saez, E. (2002a). Optimal Income Transfer Programs: Intensive versus Extensive Labor Supply Responses. *Quarterly Journal of Economics*, 117(3), 1039–1073.
+- Saez, E. (2002b). The Desirability of Commodity Taxation under Non-linear Income Taxation and Heterogeneous Tastes. *Journal of Public Economics*, 83(2), 217–230.
+- Saez, E., Slemrod, J., & Giertz, S. H. (2012). The Elasticity of Taxable Income with Respect to Marginal Tax Rates: A Critical Review. *Journal of Economic Literature*, 50(1), 3–50.
+- Schmieder, J. F., & von Wachter, T. (2016). The Effects of Unemployment Insurance Benefits: New Evidence and Interpretation. *Annual Review of Economics*, 8(1), 547–581.
+- Vickrey, W. (1945). Measuring Marginal Utility by Reactions to Risk. *Econometrica*, 13(4), 319–333.
+- Weinzierl, M. (2014). The Promise of Positive Optimal Taxation: Normative Diversity and a Role for Equal Sacrifice. *Journal of Public Economics*, 118, 128–142.
+
+## Assessment
+
+Written exam (90 minutes).
+
+## Credits
+
+6 ECTS. Module "Topics in Public Economics" (MA Economics, 2016 regulations; MEMS 2016, major in Microeconomics).
