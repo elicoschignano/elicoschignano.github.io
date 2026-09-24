@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 'PhD Student in Economics, RWI (Berlin Office) · Visiting Boston University'
 
