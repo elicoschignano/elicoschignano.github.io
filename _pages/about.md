@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD student in Economics at RWI – Leibniz Institute for Economic Research. My research is in labor economics, with a focus on unemployment insurance and job search. I am also interested in gender economics.
+I am a PhD student in Economics at RWI – Leibniz Institute for Economic Research. My research lies at the intersection of labor and public economics, with an occasional focus on gender.
 
 In Fall 2026, I am a visiting PhD student at Boston University, hosted by Johannes Schmieder.
 
