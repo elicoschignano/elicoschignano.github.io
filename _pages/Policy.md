@@ -24,5 +24,5 @@ nav_order: 5
 
 <details>
 <summary><small>Description</small></summary>
-<small>As part of RWI's forecasting team, I contribute to the Joint Economic Forecast, focusing on the German labor market, including employment, unemployment, and wages. Recent reports: <em>Expansionary fiscal policy masks weak growth</em> (Autumn 2025) and <em>Geopolitical upheaval deepens crisis – structural reforms more urgent than ever</em> (Spring 2025).</small>
+<small>As part of RWI's forecasting team, I contributed to the Joint Economic Forecast, focusing on the German labor market, including employment, unemployment, and wages. <em>Expansionary fiscal policy masks weak growth</em> (Autumn 2025) and <em>Geopolitical upheaval deepens crisis – structural reforms more urgent than ever</em> (Spring 2025).</small>
 </details>
