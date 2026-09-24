@@ -9,8 +9,8 @@ nav_order: 5
 
 ## Policy Projects
 
-**Effects of the Statutory Minimum Wage on Poverty Risk, Incomes, and Public Finances**
-<small>2026–2027 · with Robin Jessen (PI), Niklas Isaak, and Ronald Bachmann · in partnership with IAW Tübingen</small>
+**Effects of the Statutory Minimum Wage on Poverty Risk, Incomes, and Public Finances**<br>
+<small>2026–2027 · in partnership with IAW Tübingen</small><br>
 <small>Commissioned by the Federal Institute for Occupational Safety and Health (BAuA) · [Project page](https://www.rwi-essen.de/rwi/team/person/projekte/detail/auswirkungen-des-gesetzlichen-mindestlohns-auf-die-armutsgefaehrdung-452)</small>
 
 <details>
@@ -18,11 +18,11 @@ nav_order: 5
 <small>We study how the 2022 increase of the German minimum wage to €12 affected poverty risk, incomes, working hours, and the public budget, using data from the German Socio-Economic Panel (SOEP) and RWI's microsimulation model EMSIM.</small>
 </details>
 
-**Joint Economic Forecast (Gemeinschaftsdiagnose)**
-As part of RWI's forecasting team, I contribute to the Joint Economic Forecast of Germany's leading economic research institutes, commissioned by the Federal Ministry for Economic Affairs and Energy. My role focuses on forecasting the German labor market, including employment, unemployment, and wages.
+**Joint Economic Forecast (Gemeinschaftsdiagnose)**<br>
+<small>Biannual · joint project of Germany's leading economic research institutes</small><br>
+<small>Commissioned by the Federal Ministry for Economic Affairs and Energy · [Autumn 2025 report](https://gemeinschaftsdiagnose.de/2025/09/25/gemeinschaftsdiagnose-herbst-2025-expansive-finanzpolitik-kaschiert-wachstumsschwaeche/) · [Spring 2025 report](https://gemeinschaftsdiagnose.de/2025/04/10/gemeinschaftsdiagnose-fruehjahr-2025-geopolitischer-umbruch-verschaerft-krise-strukturreformen-noch-dringlicher/)</small>
 
-**Autumn 2025: Expansive Finanzpolitik kaschiert Wachstumsschwäche**
-<small>_Expansionary fiscal policy masks weak growth_ · [Report](https://gemeinschaftsdiagnose.de/2025/09/25/gemeinschaftsdiagnose-herbst-2025-expansive-finanzpolitik-kaschiert-wachstumsschwaeche/)</small>
-
-**Spring 2025: Geopolitischer Umbruch verschärft Krise – Strukturreformen noch dringlicher**
-<small>_Geopolitical upheaval deepens crisis – structural reforms more urgent than ever_ · [Report](https://gemeinschaftsdiagnose.de/2025/04/10/gemeinschaftsdiagnose-fruehjahr-2025-geopolitischer-umbruch-verschaerft-krise-strukturreformen-noch-dringlicher/)</small>
+<details>
+<summary><small>Description</small></summary>
+<small>As part of RWI's forecasting team, I contribute to the Joint Economic Forecast, focusing on the German labor market, including employment, unemployment, and wages. Recent reports: <em>Expansionary fiscal policy masks weak growth</em> (Autumn 2025) and <em>Geopolitical upheaval deepens crisis – structural reforms more urgent than ever</em> (Spring 2025).</small>
+</details>
