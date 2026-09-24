@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[University]</p>
-    <p>[Department / Office address]</p>
-    <p>[City, Postcode], Germany</p>
-
+    <p>RWI – Leibniz Institute for Economic Research</p>
+    <p>Zinnowitzer Str. 1</p>
+    <p>10115 Berlin, Germany</p>
+    
 selected_papers: false
 social: true
 
