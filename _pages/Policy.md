@@ -11,14 +11,14 @@ nav_order: 5
 
 **Effects of the Statutory Minimum Wage on Poverty Risk, Incomes, and Public Finances**
 <small>2026–2027 · with Robin Jessen (PI), Niklas Isaak, and Ronald Bachmann · in partnership with IAW Tübingen</small>
-<small>Funded by the Federal Institute for Occupational Safety and Health (BAuA) · [Project page](https://www.rwi-essen.de/rwi/team/person/projekte/detail/auswirkungen-des-gesetzlichen-mindestlohns-auf-die-armutsgefaehrdung-452)</small>
+<small>Commissioned by the Federal Institute for Occupational Safety and Health (BAuA) · [Project page](https://www.rwi-essen.de/rwi/team/person/projekte/detail/auswirkungen-des-gesetzlichen-mindestlohns-auf-die-armutsgefaehrdung-452)</small>
 
 <details>
 <summary><small>Description</small></summary>
 <small>We study how the 2022 increase of the German minimum wage to €12 affected poverty risk, incomes, working hours, and the public budget, using data from the German Socio-Economic Panel (SOEP) and RWI's microsimulation model EMSIM.</small>
 </details>
 
-## Joint Economic Forecast (Gemeinschaftsdiagnose)
+**Joint Economic Forecast (Gemeinschaftsdiagnose)**
 As part of RWI's forecasting team, I contribute to the Joint Economic Forecast of Germany's leading economic research institutes, commissioned by the Federal Ministry for Economic Affairs and Energy. My role focuses on forecasting the German labor market, including employment, unemployment, and wages.
 
 **Autumn 2025: Expansive Finanzpolitik kaschiert Wachstumsschwäche**
