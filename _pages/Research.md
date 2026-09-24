@@ -11,13 +11,13 @@ nav_order: 2
 
 **The Diverging Trends of Male and Female Bottom Earnings in Germany**
 with Robin Jessen
-<small>_Revise and Resubmit, Review of Income and Wealth_ · [PDF](#)</small>
+<small>_Revise and Resubmit, Review of Income and Wealth_ ·
 
 ## Work in Progress
 
 **Introducing Flexicurity: Labor Market Effects of an Unemployment Insurance Reform and Severance Pay**
 with José Garcia-Louzao, Jonas Jessen, Robin Jessen, and Linas Tarasonis
-<small>[PDF](#)</small>
+
 
 <details>
 <summary><small>Abstract</small></summary>
