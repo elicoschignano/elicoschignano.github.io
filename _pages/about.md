@@ -6,7 +6,7 @@ subtitle: 'PhD Student in Economics, RWI (Berlin Office) · Visiting Boston Univ
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.jpeg
   image_circular: false
   more_info: >
     <p>RWI – Leibniz Institute for Economic Research</p>
