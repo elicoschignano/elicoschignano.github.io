@@ -1,0 +1,10 @@
+---
+layout: page
+title: policy
+permalink: /policy/
+description:
+nav: true
+nav_order: 5
+---
+
+Write your policy content here. You can use normal Markdown, like **bold**, lists, and [links](https://example.com).
