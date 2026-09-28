@@ -7,7 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-## Policy Projects
+
+**Selected Policy Projects**<br>
 
 **Effects of the Statutory Minimum Wage on Poverty Risk, Incomes, and Public Finances**<br>
 <small>2026–2027 · in partnership with IAW Tübingen</small><br>
@@ -15,7 +16,7 @@ nav_order: 5
 
 <details>
 <summary><small>Description</small></summary>
-<small>We study how the 2022 increase of the German minimum wage to €12 affected poverty risk, incomes, working hours, and the public budget, using data from the German Socio-Economic Panel (SOEP) and RWI's microsimulation model EMSIM.</small>
+<small>Evaluation of the effects of the 2022 increase in the German statutory minimum wage to €12 on poverty risk, household incomes, working hours, and public finances, using data from the German Socio-Economic Panel (SOEP) and RWI's microsimulation model EMSIM.</small>
 </details>
 
 **Joint Economic Forecast (Gemeinschaftsdiagnose)**<br>
@@ -24,5 +25,5 @@ nav_order: 5
 
 <details>
 <summary><small>Description</small></summary>
-<small>As part of RWI's forecasting team, I contributed to the Joint Economic Forecast, focusing on the German labor market, including employment, unemployment, and wages. <em>Expansionary fiscal policy masks weak growth</em> (Autumn 2025) and <em>Geopolitical upheaval deepens crisis – structural reforms more urgent than ever</em> (Spring 2025).</small>
+<small>Contribution to RWI's labor market forecasts, covering employment, unemployment, and wages, as part of the Joint Economic Forecast. The Autumn 2025 report examined how expansionary fiscal policy masks weak growth, while the Spring 2025 report addressed the economic implications of geopolitical upheaval and the need for structural reforms.</small>
 </details>
