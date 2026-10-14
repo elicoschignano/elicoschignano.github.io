@@ -70,7 +70,7 @@ Commissioned by the Federal Institute for Occupational Safety and Health (BAuA) 
 
 <div class="policy-project">
 
-### Consultancy Services for Modelling and Simulations
+### Consultancy Services for Modelling and Simulations in Indonesia
 
 <div class="policy-meta">
 Commissioned by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH · <a href="https://www.rwi-essen.de/en/rwi/team/person/projects/detail/consultancy-services-for-modelling-and-simulations-of-471">Project page</a>
@@ -78,7 +78,7 @@ Commissioned by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) G
 
 <details>
 <summary>Description</summary>
-<p>Consultancy project involving modelling and simulation services to support evidence-based analysis and policy advice.</p>
+<p>Aim of this project is to further develop the Indonesian Ministry of Finance's existing microsimulation models for corporate income tax (CIT) and personal income tax (PIT)..</p>
 </details>
 
 </div>
