@@ -57,13 +57,13 @@ nav_order: 5
 ### Effects of the Statutory Minimum Wage on Poverty Risk, Incomes, and Public Finances
 
 <div class="policy-meta">
-2026–2027 · RWI – Leibniz Institute for Economic Research and IAW Tübingen<br>
+2026–2027 · In partnership with IAW Tübingen<br>
 Commissioned by the Federal Institute for Occupational Safety and Health (BAuA) · <a href="https://www.rwi-essen.de/rwi/team/person/projekte/detail/auswirkungen-des-gesetzlichen-mindestlohns-auf-die-armutsgefaehrdung-452">Project page</a>
 </div>
 
 <details>
 <summary>Description</summary>
-<p>Evaluation of the effects of the 2022 increase in the German statutory minimum wage to €12 on poverty risk, household incomes, working hours, and public finances, using data from the German Socio-Economic Panel (SOEP) and RWI's microsimulation model EMSIM.</p>
+<p>Evaluation of the effects of the 2022 increase in the German statutory minimum wage to €12 on poverty risk, household incomes, working hours, and public finances, using data from the German Socio-Economic Panel (SOEP) and a microsimulation model.</p>
 </details>
 
 </div>
@@ -73,7 +73,7 @@ Commissioned by the Federal Institute for Occupational Safety and Health (BAuA) 
 ### Consultancy Services for Modelling and Simulations
 
 <div class="policy-meta">
-RWI – Leibniz Institute for Economic Research · <a href="https://www.rwi-essen.de/en/rwi/team/person/projects/detail/consultancy-services-for-modelling-and-simulations-of-471">Project page</a>
+Commissioned by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH · <a href="https://www.rwi-essen.de/en/rwi/team/person/projects/detail/consultancy-services-for-modelling-and-simulations-of-471">Project page</a>
 </div>
 
 <details>
@@ -94,7 +94,7 @@ Commissioned by the Federal Ministry for Economic Affairs and Energy · <a href=
 
 <details>
 <summary>Description</summary>
-<p>Contribution to RWI's labour market forecasts, covering employment, unemployment, and wages, as part of the Joint Economic Forecast. The Autumn 2025 report examined how expansionary fiscal policy masks weak growth, while the Spring 2025 report addressed the economic implications of geopolitical upheaval and the need for structural reforms.</p>
+<p>Contribution to labour market forecasts, covering employment, unemployment, and wages, as part of the Joint Economic Forecast. The Autumn 2025 report examined how expansionary fiscal policy masks weak growth, while the Spring 2025 report addressed the economic implications of geopolitical upheaval and the need for structural reforms.</p>
 </details>
 
 </div>
@@ -114,7 +114,7 @@ Commissioned by the Federal Ministry for Economic Affairs and Energy · <a href=
 
 <details>
 <summary>Description</summary>
-<p>Contributed to the ECB's research on consumers' payment attitudes and behaviour in the euro area. Responsibilities included data collection, cleaning, and validation, as well as coordinating with national central banks and other stakeholders to support the analysis of payment choices and the use of cash and other payment instruments.</p>
+<p>Contributed to research on consumers' payment attitudes and behaviour in the euro area. Responsibilities included data collection, cleaning, and validation, as well as coordinating with national central banks and other stakeholders to support the analysis of payment choices and the use of cash and other payment instruments.</p>
 </details>
 
 </div>
