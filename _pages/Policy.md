@@ -54,7 +54,7 @@ nav_order: 5
 
 <div class="policy-project">
 
-### Effects of the Statutory Minimum Wage on Poverty Risk, Incomes, and Public Finances
+Effects of the Statutory Minimum Wage on Poverty Risk, Incomes, and Public Finances
 
 <div class="policy-meta">
 2026–2027 · In partnership with IAW Tübingen<br>
@@ -70,7 +70,7 @@ Commissioned by the Federal Institute for Occupational Safety and Health (BAuA) 
 
 <div class="policy-project">
 
-### Consultancy Services for Modelling and Simulations in Indonesia
+Consultancy Services for Modelling and Simulations in Indonesia
 
 <div class="policy-meta">
 Commissioned by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH · <a href="https://www.rwi-essen.de/en/rwi/team/person/projects/detail/consultancy-services-for-modelling-and-simulations-of-471">Project page</a>
@@ -85,7 +85,7 @@ Commissioned by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) G
 
 <div class="policy-project">
 
-### Joint Economic Forecast (Gemeinschaftsdiagnose)
+Joint Economic Forecast (Gemeinschaftsdiagnose)
 
 <div class="policy-meta">
 Biannual · Joint project of Germany's leading economic research institutes<br>
@@ -102,11 +102,11 @@ Commissioned by the Federal Ministry for Economic Affairs and Energy · <a href=
 
 <div class="policy-section">
 
-## Pre-PhD Policy Projects
+Pre-PhD Policy Projects
 
 <div class="policy-project">
 
-### Study on the Payment Attitudes of Consumers in the Euro Area (SPACE)
+Study on the Payment Attitudes of Consumers in the Euro Area (SPACE)
 
 <div class="policy-meta">
 2022–2023 · European Central Bank (ECB) · <a href="https://www.ecb.europa.eu/stats/ecb_surveys/space/html/ecb.spacereport202212~783ffdf46e.en.html">ECB SPACE report</a>
