@@ -2,7 +2,7 @@
 layout: page
 title: Policy
 permalink: /policy/
-description: Selected policy projects and applied economic research.
+description: 
 nav: true
 nav_order: 5
 ---
