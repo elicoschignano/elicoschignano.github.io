@@ -136,7 +136,7 @@ Commissioned by the Federal Ministry for Economic Affairs and Energy ·
 
 <div class="policy-section">
 
-<h2 class="policy-section-title">Pre PhD Policy Projects</h2>
+<h2 class="policy-section-title">Pre-PhD Policy Projects</h2>
 
 <div class="policy-project">
 
