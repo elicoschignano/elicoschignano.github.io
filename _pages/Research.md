@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
-description: Research in labour economics, public economics, and applied microeconomics.
+description: 
 nav: true
 nav_order: 2
 ---
@@ -142,7 +142,7 @@ Revise and Resubmit · <em>Review of Income and Wealth</em>
 
 <div class="research-section">
 
-<h2 class="research-section-title">Publications</h2>
+<h2 class="research-section-title">Publications in German</h2>
 
 <div class="research-project">
 
@@ -151,7 +151,7 @@ Revise and Resubmit · <em>Review of Income and Wealth</em>
 <div class="research-authors">With Niklas Isaak and Robin Jessen</div>
 
 <div class="research-meta">
-<em>Zeitschrift für Wirtschaftspolitik</em>, 2025 · In German
+<em>Zeitschrift für Wirtschaftspolitik</em>, 2025
 </div>
 
 </div>
@@ -159,7 +159,7 @@ Revise and Resubmit · <em>Review of Income and Wealth</em>
 
 <div class="research-section">
 
-<h2 class="research-section-title">Earlier Publications</h2>
+<h2 class="research-section-title">Pre-PhD publications</h2>
 
 <div class="research-project">
 
