@@ -101,7 +101,7 @@ Commissioned by the Federal Institute for Occupational Safety and Health (BAuA) 
 
 <div class="policy-project">
 
-<h3>Consultancy Services for Modelling and Simulations in Indonesia</h3>
+<h3>Consultancy Services for Modelling and Simulations of Income Tax Reforms in Indonesia</h3>
 
 <div class="policy-meta">
 Commissioned by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH ·
