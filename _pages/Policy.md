@@ -4,7 +4,7 @@ title: Policy
 permalink: /policy/
 description: 
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <style>
