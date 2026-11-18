@@ -84,7 +84,7 @@ nav_order: 5
 
 <div class="policy-project">
 
-<h3>Effects of the Statutory Minimum Wage on Poverty Risk, Incomes, and Public Finances</h3>
+<h3>Effects of Minimum Wage Increase on Poverty Risk, Incomes, and Public Finances</h3>
 
 <div class="policy-meta">
 <span class="policy-period">2026–2027</span> · In partnership with IAW Tübingen<br>
