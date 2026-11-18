@@ -1,12 +1,10 @@
-
 ---
 layout: page
-permalink: /teaching/
 title: Teaching
+permalink: /teaching/
 description: ""
 nav: true
 nav_order: 6
-calendar: false
 ---
 
 ### Teaching Assistant
