@@ -121,7 +121,7 @@ Commissioned by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) G
 
 <div class="policy-meta">
 Biannual · Joint project of Germany's leading economic research institutes<br>
-Commissioned by the Federal Ministry for Economic Affairs and Energy ·
+Commissioned by the Federal Ministry for Economic Affairs and Energy (BMWE) ·
 <a href="https://gemeinschaftsdiagnose.de/2025/09/25/gemeinschaftsdiagnose-herbst-2025-expansive-finanzpolitik-kaschiert-wachstumsschwaeche/" target="_blank" rel="noopener noreferrer">Autumn 2025 report</a> ·
 <a href="https://gemeinschaftsdiagnose.de/2025/04/10/gemeinschaftsdiagnose-fruehjahr-2025-geopolitischer-umbruch-verschaerft-krise-strukturreformen-noch-dringlicher/" target="_blank" rel="noopener noreferrer">Spring 2025 report</a>
 </div>
