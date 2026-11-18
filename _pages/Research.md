@@ -159,7 +159,7 @@ Revise and Resubmit · <em>Review of Income and Wealth</em>
 
 <div class="research-section">
 
-<h2 class="research-section-title">Pre-PhD publications</h2>
+<h2 class="research-section-title">Pre-PhD Working Papers</h2>
 
 <div class="research-project">
 
